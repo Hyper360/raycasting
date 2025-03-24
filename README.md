@@ -1,6 +1,6 @@
-Raycasting engine that will be used to build our game for a game competition!
+**Raycasting engine that will be used to build our game for a game competition!**
 
-Learned the raycasting technique from Lodev's raycasting tutorial here: https://lodev.org/cgtutor/raycasting.html
+Learned the raycasting technique from Lodev's raycasting tutorial [here](https://lodev.org/cgtutor/raycasting.html)
 
-Dependecies:
+**Dependecies:**
 Pygame
